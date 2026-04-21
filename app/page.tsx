@@ -21,7 +21,7 @@ export default function Home() {
       <div className="z-10 flex flex-col items-center justify-center">
         {/* OMIMARU Logo with subtle pulse/flicker */}
         <div className="animate-eerie-pulse relative mb-12 flex items-center justify-center">
-          <Image src="/logo.svg" alt="OMIMARU Logo" width={200} height={200} />
+          <Image src="./logo.svg" alt="OMIMARU Logo" width={200} height={200} />
         </div>
 
         {/* Text Area */}
